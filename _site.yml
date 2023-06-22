@@ -8,7 +8,7 @@ navbar:
     - text: "Home"
       href: ESS_ANALYSIS.html
     - text: "Work Sample"
-      href: ESS_ANALYSIS.html
+      href: ESS.html
     - text: "About"
       href: about.html
 output: distill::distill_article

@@ -1,0 +1,12 @@
+name: "."
+title: "Multilevel"
+description: |
+  Multilevel
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: ESS_ANALYSIS.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
